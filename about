@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Acerca de - Bocchi Gobierno</title>
+  <meta name="description" content="Sección acerca de bocchi gobierno">
+  <meta name="author" content="Kimino">
+  <link rel="icon" href="bchgbrnimg/iconbchgbrn.png">
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <h1>Acerca de Bocchi Gobierno</h1>
+  <hr>
+  <p>Te invitamos a sumergirte en la historia y la visión que respaldan la creación de Bocchi Gobierno, un emocionante club de economía virtual. Descubre más sobre nosotros y únete a la comunidad que da forma al destino económico en nuestro vibrante universo.</p>
+
+  <p><strong>Enlaces interesantes:</strong></p>
+  <p><a href="https://www.elkimino.repl.co/">Inicio</a> | <a href="comunidad">Comunidad</a> | <a href="#">Acerca de</a> | <a href="contacto">Contacto</a></p>
+
+  <h2>Bocchi Gobierno</h2>
+
+  <figure>
+    <img src="bchgbrnimg/imgbg4.png" alt="Descripción de la imagen 1">
+    <figcaption> Historia y orígenes.</figcaption>
+    <p>Bocchi Gobierno nació de la pasión por la estrategia y la diversión. Fundado por entusiastas de los juegos, nuestro equipo se propuso crear un espacio donde la gestión económica de nekotina se combina con la emoción de los eventos y desafíos.</p>
+  </figure>
+
+  <figure>
+    <img src="bchgbrnimg/imgbg3.png" alt="Descripción de la imagen 2">
+    <figcaption>Misión y visión.</figcaption>
+    <p>Nos esforzamos por proporcionar una experiencia única donde la estrategia y la diversión convergen. Nuestra misión es crear un mundo virtual donde los jugadores puedan liderar y participar activamente en el desarrollo económico.</p>
+  </figure>
+
+  <figure>
+    <img src="bchgbrnimg/imgbg5.png" alt="Descripción de la imagen 2">
+    <figcaption>Características principales.</figcaption>
+    <ul>
+    <li style="margin-bottom: 5px;">Gestión económica dinámica.</li>
+    <li style="margin-bottom: 5px;">Eventos y desafíos emocionantes.</li>
+    <li style="margin-bottom: 5px;">Personalización a través de preguntas de bienvenida.</li>
+    </ul>
+  </figure>
+
+  <figure>
+    <img src="bchgbrnimg/imgbg6.png" alt="Descripción de la imagen 2">
+    <figcaption>Equipo.</figcaption>
+    <p>Conoce al equipo detrás de Bocchi Gobierno, apasionados por ofrecer una experiencia excepcional. Desde desarrolladores hasta diseñadores, todos compartimos el compromiso de hacer de Bocchi Gobierno un lugar emocionante.</p>
+  </figure>
+
+  <figure>
+    <img src="bchgbrnimg/imgbg8.png" alt="Descripción de la imagen 2">
+    <figcaption>Comunidad.</figcaption>
+    <p>La comunidad de Bocchi Gobierno es diversa y activa. Celebramos logros juntos, organizamos eventos emocionantes y fomentamos la camaradería entre los jugadores.</p>
+  </figure>
+
+<a href="https://discord.gg/4xQac2PbeV" target="_blank" class="retro-button">Únete ahora</a>
+
+  <footer>
+    <p>&copy; <a href="18062021"><i>2021 Bocchi Gobierno</i></a>. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>

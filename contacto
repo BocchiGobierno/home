@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contacto - Bocchi Gobierno</title>
+  <meta name="description" content="Sección de contactos de bocchi gobierno">
+  <meta name="author" content="Kimino">
+  <link rel="icon" href="bchgbrnimg/iconbchgbrn.png">
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <h1>Contáctenos</h1>
+  <hr>
+  <p>Estamos emocionados de saber de ti. Ya sea que tengas preguntas sobre la economía virtual o simplemente quieras compartir tus ideas, estamos aquí para ayudar. Utiliza la información a continuación para ponerte en contacto con nosotros.</p>
+
+  <p><strong>Enlaces interesantes:</strong></p>
+  <p><a href="https://www.elkimino.repl.co/">Inicio</a> | <a href="comunidad">Comunidad</a> | <a href="about">Acerca de</a> | <a href="#">Contacto</a></p>
+
+  <h2>Contacto del Bocchi Gobierno</h2>
+
+  <figure>
+    <figcaption> Información de Contacto.</figcaption>
+    <p><strong>Correo Electrónico Principal:</strong> <a href="mailto:bocchigobierno@gmail.com">bocchigobierno@gmail.com</a> <br><br> <strong>Redes Sociales:</strong> <br> <a href="https://www.facebook.com/profile.php?id=61554541104553" target="_blank">Facebook</a> <br> <a href="https://twitter.com/BocchiGobierno" target="_blank">X (Twitter)</a> <br> <a href="https://www.instagram.com/bocchigobierno/" target="_blank">Instagram</a></p>
+  </figure>
+
+  <figure>
+  <img src="bchgbrnimg/imgbg7.png" alt="Descripción de la imagen 2">
+    <figcaption>Preguntas Frecuentes.</figcaption>
+    <ul>
+      <li><strong>¿Cómo puedo unirme al Bocchi Gobierno?</strong> <br> A través del siguiente enlace: <br><a href="https://discord.gg/4xQac2PbeV" target="_blank">Únete ahora</a>.</li>
+      <li><strong>¿Qué es Bocchi Gobierno y cómo funciona el juego de economía virtual?</strong> <br> Bocchi Gobierno es un servidor de economía donde los miembros pueden sumergirse en la gestión económica y participar en eventos. Únete y conviértete en el líder económico del Bocchi Gobierno.</li>
+      <li><strong>¿Cuáles son los requisitos para participar en eventos y desafíos?</strong> <br> Los requisitos para participar en eventos y desafíos varían. Consulta anuncios y canales específicos en nuestro servidor de Discord para obtener detalles sobre cada evento. Participa y destaca.</li>
+      <li><strong>¿Puedo cambiar mis respuestas en las preguntas de bienvenida después de unirme?</strong> <br> Sí, puedes ajustar tus respuestas en las preguntas de bienvenida después de unirte para personalizar tu experiencia.</li>
+      <li><strong>¿Cómo puedo informar un problema técnico o un error del servidor?</strong> <br> Para informar problemas técnicos o errores, visita el canal correspondiente en nuestro servidor de Discord o contacta al equipo de soporte a través de nuestro correo o redes sociales. Gracias por tu colaboración.</li>
+      <li><strong>¿Cuándo puedo esperar respuestas a mis mensajes o consultas?</strong> <br> Intentamos responder a tus mensajes y consultas lo más rápido posible. Gracias por tu paciencia.</li>
+      <li><strong>¿Dónde puedo encontrar las últimas actualizaciones y anuncios importantes?</strong> <br> Encuentra las últimas actualizaciones y anuncios importantes en el canal correspondiente de nuestro servidor de Discord. Mantente informado.</li>
+    </ul>
+  </figure>
+
+  <footer>
+    <p>&copy; <a href="about"><i>2021 Bocchi Gobierno</i></a>. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>

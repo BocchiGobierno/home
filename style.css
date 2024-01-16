@@ -1,0 +1,97 @@
+body {
+  background-color: #d3d3d3;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  color: #000080;
+}
+
+p {
+  color: #000000;
+}
+
+a {
+  color: #800000;
+  text-decoration: none;
+}
+
+figure {
+  max-width: 400px;
+  margin: 0 auto 20px; 
+}
+
+img {
+  max-width: 100%; 
+  height: auto;
+  border: 1px solid #6e6e6e; 
+  border-radius: 8px; 
+}
+
+figcaption {
+  margin-top: 10px; 
+  font-style: italic; 
+}
+
+ul li {
+  margin-bottom: 20px; 
+}
+
+strong {
+  color: #000080;
+}
+
+.retro-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #d3d3d3; 
+  border: 1px solid #000080; 
+  color: #000080;
+  text-decoration: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  margin-bottom: 20px;
+}
+
+.retro-button:hover {
+  background-color: #000080; 
+  color: #d3d3d3;
+}
+
+/* Estilos específicos para el footer con estética retro */
+footer {
+  background-color: #c0c0c0; /* Fondo gris ligeramente más oscuro */
+  color: #333; /* Texto gris oscuro */
+  padding: 10px; /* Agrega relleno al footer para separarlo del contenido */
+  text-align: center;
+  border-top: 2px solid #6e6e6e; /* Agrega un borde superior al footer */
+  margin-top: 20px; /* Agrega un margen superior invisible de 20px */
+}
+
+/* Estilo para el enlace en el footer */
+footer a {
+  color: #333; /* Enlace en tono rojo oscuro */
+  text-decoration: none;
+}
+
+/* Estilo para el enlace en el footer al pasar el ratón */
+footer a:hover {
+  color: #191919; /* Cambia el color al pasar el ratón a un tono beige oscuro */
+}
+
+#desc {
+  text-justify: distribute;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#links {
+  background-color: #c0c0c0;
+  padding: 5px;
+  border-bottom: 2px solid #6e6e6e
+}

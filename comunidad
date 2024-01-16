@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Comunidad - Bocchi Gobierno</title>
+  <meta name="description" content="Sección de comunidad de Bocchi Gobierno">
+  <meta name="author" content="Kimino">
+  <link rel="icon" href="bchgbrnimg/iconbchgbrn.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Comunidad Bocchi Gobierno</h1>
+  <hr>
+  <p>Bienvenido a la comunidad de Bocchi Gobierno, donde los amantes de los gatos y los estrategas virtuales se reúnen para compartir experiencias, participar en eventos emocionantes y colaborar en el desarrollo de la economía virtual de Nekotina. Aquí, encontrarás todo lo que necesitas saber sobre nuestra activa y diversa comunidad.</p>
+
+  <p><strong>Enlaces interesantes:</strong></p>
+  <p><a href="https://www.elkimino.repl.co/">Inicio</a> | <a href="#">Comunidad</a> | <a href="about">Acerca de</a> | <a href="contacto">Contacto</a></p>
+
+  <!-- Contenido de la comunidad -->
+
+<h2>Bienvenido a Bocchi Gobierno</h2>
+
+<figure>
+  <img src="bchgbrnimg/imgbg1.png" alt="Descripción de la imagen 1">
+  <figcaption> Foros y Discusiones.</figcaption>
+  <p>Únete a las conversaciones en nuestros foros dedicados. Desde estrategias de juego hasta eventos, los jugadores comparten sus pensamientos y consejos.</p>
+</figure>
+
+<figure>
+  <img src="bchgbrnimg/imgbg3.png" alt="Descripción de la imagen 2">
+  <figcaption>Logros Destacados</figcaption>
+  <p>Celebra los logros sobresalientes de la comunidad. Desde líderes económicos hasta participantes destacados en eventos, destacamos las contribuciones notables.</p>
+</figure>
+
+<figure>
+  <img src="bchgbrnimg/imgbg4.png" alt="Descripción de la imagen 2">
+  <figcaption>Enlaces Sociales</figcaption>
+  <p><strong>Correo Electrónico Principal:</strong> <a href="mailto:bocchigobierno@gmail.com">bocchigobierno@gmail.com</a> <br><br> <strong>Redes Sociales:</strong> <br> <a href="https://www.facebook.com/profile.php?id=61554541104553" target="_blank">Facebook</a> <br> <a href="https://twitter.com/BocchiGobierno" target="_blank">X (Twitter)</a> <br> <a href="#" target="_blank">Instagram</a></p>
+</figure>
+
+<figure>
+  <img src="bchgbrnimg/imgbg2.png" alt="Descripción de la imagen 2">
+  <figcaption>Discord</figcaption>
+  <p>Enlace directo a nuestro servidor de Discord, el epicentro de la acción. Chatea con jugadores en tiempo real, únete a eventos de voz y participa en discusiones temáticas.</p>
+</figure>
+
+ <a href="https://discord.gg/4xQac2PbeV" target="_blank" class="retro-button">Únete ahora</a>
+
+  <footer>
+    <p>&copy; <a href="about"><i>2021 Bocchi Gobierno</i></a>. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
